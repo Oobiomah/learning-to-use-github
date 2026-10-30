@@ -1,0 +1,7 @@
+10
+Hello  Amaka
+Traceback (most recent call last):
+  File "/home/gamp/Documents/TN_python_scripts/Python Labs_My early days/labs/practice.py", line 17, in <module>
+    print(names)
+          ^^^^^
+NameError: name 'names' is not defined. Did you mean: 'name'?
